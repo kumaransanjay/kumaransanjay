@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kumaransanjay
+- 👋 Hi, I’m Sanjay Kumaran
 - 👀 I’m interested in Python projects
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on Python,Machine Learning
